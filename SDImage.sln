@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDImage", "SDImage\SDImage.csproj", "{711563F3-F8E1-48E8-8399-FFD4F69B44C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711563F3-F8E1-48E8-8399-FFD4F69B44C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711563F3-F8E1-48E8-8399-FFD4F69B44C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711563F3-F8E1-48E8-8399-FFD4F69B44C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711563F3-F8E1-48E8-8399-FFD4F69B44C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {869B9204-10C2-4765-B6BC-98BAF0266F5D}
+	EndGlobalSection
+EndGlobal
